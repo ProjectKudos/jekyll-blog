@@ -1,8 +1,8 @@
 ---
 date: '2018-11-03T05:05:26.465Z'
 layout: home
+title: Design tools
 ---
-# <a id="_wcbyik9p97p8"></a>Design tools
 
 Hey AIESEC!
 On this page you can find some best desing tool for you work!!!
