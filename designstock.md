@@ -5,7 +5,7 @@ title: Design Stock
 permalink: /DesingStock/
 ---
 
-Hey AIESEC!
+<h1>Hey AIESEC!</h1>
 On this page you can find some best desing resources for you work!!!
 Scroll down to look for more photos,videos,icons,fonts, templates an design guidelines on a list.
 
