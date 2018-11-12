@@ -6,7 +6,7 @@ permalink: /marketing/
 ---
 
 <h1>Hey AIESEC!</h1>
-On this page you can find some best marketing tools for you work!!!
+On this page you can find some best marketing tools for your work!!!
 Scroll down to look for more social media and analytics tools from the list.
 <div>Pro Tip: Use Ctrl + f for searching particural tool.</div>
 
