@@ -6,7 +6,7 @@ permalink: /DesingTools/
 ---
 
 <h1>Hey AIESEC!</h1>
-On this page you can find some best desing tool for you work!!!
+On this page you can find some best desing tool for your work!!!
 Scroll down to look for more tool from the list.
 <div>Pro Tip: Use Ctrl + f for searching particural tool.</div>
 
