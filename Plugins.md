@@ -4,6 +4,8 @@ layout: page
 title: Plugins
 permalink: /Plugins/
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdn.blockspring.com/blockspring.js"></script>
 
 <h1>Hey AIESEC!</h1>
 On this page you can find some best desing resources for your work!!!
