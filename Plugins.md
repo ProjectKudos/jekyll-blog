@@ -13,7 +13,7 @@ On this page you can find some best desing resources for your work!!!
 Scroll down to look for more photos,videos,icons,fonts, templates an design guidelines from the list.
 <p>Pro Tip: Use Ctrl + f for searching particural stock.</p>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStp_zF9I2VkxV6UmnMLYMcq8fxk0vPvh06AIDGQpU9A267Zt_WC-Ee_FTpzJGjzwYcIKXacJLBmuZL/pubhtml?gid=1197189565&amp;single=true&amp;widget=true&amp;headers=false"  style="width:46.875em; height: 50.000em; border: none"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStp_zF9I2VkxV6UmnMLYMcq8fxk0vPvh06AIDGQpU9A267Zt_WC-Ee_FTpzJGjzwYcIKXacJLBmuZL/pubhtml?gid=1197189565&amp;single=true&amp;widget=true&amp;headers=false"  style="width:2.13vw; height: 50.000em; border: none"></iframe>
 
 <script>
 var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1qT1LyvoAcb0HTsi2rHBltBVpUBumAUzT__rhMvrz5Rk/edit#gid=0';
