@@ -18,6 +18,6 @@ Scroll down to look for more photos,videos,icons,fonts, templates an design guid
 <script src="https://cdn.blockspring.com/blockspring.js"></script>
 <script>
   blockspring.runParsed("read-worksheet-google-sheets", { "file_id": 1EGBb329O8FJUtuPUs-bRpFagVyHXRjPfHsukDHlg6H4, "worksheet_id": , "has_header": false}, { "api_key": "br_102686_b553a6242407bad8d96e9a402335a629f4dadfb8" }, function(res){
-    document.write("res.params");
+    $document.write("res.params");
   })
 </script>
