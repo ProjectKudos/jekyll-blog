@@ -22,7 +22,7 @@ var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1nNebFruy7RCNQ1Kc8xc
 $(document).ready(function(){
 $('#plugins').sheetrock({
   url: mySpreadsheet,
-  query: "select A,B,C order by L desc",
+  query: "select A,B order by L desc",
   fetchSize: 10
 });
 });
