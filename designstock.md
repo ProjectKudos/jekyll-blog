@@ -13,8 +13,7 @@ Scroll down to look for more photos,videos,icons,fonts, templates an design guid
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStp_zF9I2VkxV6UmnMLYMcq8fxk0vPvh06AIDGQpU9A267Zt_WC-Ee_FTpzJGjzwYcIKXacJLBmuZL/pubhtml?gid=1973860208&amp;single=true&amp;widget=true&amp;headers=false&chrome=false;" style="width:100%; height: 120.66365007541478vh; border: none"></iframe>
 
 <script>
-var element = document.querySelector('#top-bar');
-element.parentElement.removeChild(element);
+document.getElementById('doc-title').remove()
 document.getElementById('top-bar').style.visibility = hidden;
 document.getElementById('doc-title').style.visibility = hidden;
 </script>
