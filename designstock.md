@@ -14,6 +14,5 @@ Scroll down to look for more photos,videos,icons,fonts, templates an design guid
 
 <script>
 document.getElementById('doc-title').remove()
-document.getElementById('top-bar').style.visibility = hidden;
-document.getElementById('doc-title').style.visibility = hidden;
+document.getElementById('top-bar').remove()
 </script>
